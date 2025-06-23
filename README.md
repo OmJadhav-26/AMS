@@ -20,7 +20,7 @@ A simple full-stack web application built with **React (Vite)** for the frontend
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/apartment-management.git
+git clone https://github.com/OmJadhav-26/AMS.git
 cd apartment-management
 2. Setup Backend
 
