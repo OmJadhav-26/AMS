@@ -17,7 +17,7 @@ A simple full-stack web application built with **React (Vite)** for the frontend
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/OmJadhav-26/AMS.git
@@ -45,3 +45,7 @@ Backend: Node.js, Express.js
 Database: MongoDB
 
 HTTP Requests: Axios
+
+
+
+### WORK IN PROCESS
